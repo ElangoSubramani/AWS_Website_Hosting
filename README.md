@@ -74,12 +74,14 @@
 
 ![Alt text](assets/image-13.png)
 
+### Boom!! Your website now hosted in AWS S3
+
 
 # Full Documetation by AWS
 
 https://docs.aws.amazon.com/pdfs/AmazonS3/latest/userguide/s3-userguide.pdf#HostingWebsiteOnS3Setup
 
-### Boom!! Your website now hosted in AWS S3
+
 
 
 ## Happy Learning
