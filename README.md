@@ -34,7 +34,7 @@
 
 ![Alt text](image-6.png)
 
-8. Enable the the Static Webhosting and type your html document name eg.Index.html
+8. Enable the the Static Web Hosting and type your html document name eg.Index.html
 
 ![Alt text](image-7.png)
 
@@ -46,7 +46,7 @@
 
 ![Alt text](image-9.png)
 
-10. Clear the existing poolicy if anything already avilable, paste the below configuration
+10. Clear the existing policy if anything already avilable, paste the below configuration
 {
     "Version": "2012-10-17",
     "Statement": [
