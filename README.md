@@ -69,7 +69,7 @@
 
 ![Alt text](image-13.png)
 
-### Boom!! Your website now hosted in aws S3
+### Boom!! Your website now hosted in AWS S3
 
 
 ## Happy Learning
