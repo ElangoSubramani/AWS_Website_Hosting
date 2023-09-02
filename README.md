@@ -19,7 +19,7 @@
 
 ![Alt text](assets/image-2.png)
 
-4.  Name the bucket as per the naming convention and Unmark the block all public Access
+4.  Name the bucket as per the naming convention and unmark the block all public Access
 
 ![Alt text](assets/image-3.png)
 
@@ -35,7 +35,7 @@
 
 ![Alt text](assets/image-6.png)
 
-8. Enable the the Static Web Hosting and type your html document name eg.Index.html
+8. Enable the the static web hosting and type your html document name eg.Index.html
 
 ![Alt text](assets/image-7.png)
 
@@ -86,7 +86,7 @@ https://docs.aws.amazon.com/pdfs/AmazonS3/latest/userguide/s3-userguide.pdf#Host
 
 ## Happy Learning
 
-## Follow me and visit my profile  and if any queries ask me on linkedin
+## Follow me, If any queries reach me on linkedin
 
 https://github.com/ElangoSubramani 
 
