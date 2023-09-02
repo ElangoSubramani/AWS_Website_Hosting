@@ -31,9 +31,11 @@
 
 ![Alt text](image-6.png)
 
-8. Enable the the Static Webhosting
+8. Enable the the Static Webhosting and type your html document name eg.Index.html
 
 ![Alt text](image-7.png)
+
+![Alt text](image-12.png)
 
 9. Now select the Permissions tab and edit the bucket policy
 
@@ -61,6 +63,8 @@
 12. Click upload and select the requireed files or folders 
 
 ![Alt text](image-11.png)
+
+13. 
 
 
 
