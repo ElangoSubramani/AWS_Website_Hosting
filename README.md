@@ -1,4 +1,4 @@
-## In this Documentation you'll get to know how simply you can host a static website in AWS S3 in AWS free tire account
+## In this Documentation you'll get to know how simply host a static website in AWS S3 in AWS free tire account
 
 
 <h4>Checkout my website:</h4> <p>http://elangoportfolio.s3-website-ap-southeast-2.amazonaws.com/</p>
