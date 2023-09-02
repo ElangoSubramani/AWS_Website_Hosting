@@ -66,7 +66,7 @@
 
 ![Alt text](assets/image-10.png)
 
-12. Click upload and select the requireed files or folders 
+12. Click upload and select the required files or folders 
 
 ![Alt text](assets/image-11.png)
 
