@@ -73,6 +73,11 @@
 
 ![Alt text](assets/image-13.png)
 
+
+# Full Documetation
+
+https://docs.aws.amazon.com/pdfs/AmazonS3/latest/userguide/s3-userguide.pdf#HostingWebsiteOnS3Setup
+
 ### Boom!! Your website now hosted in AWS S3
 
 
@@ -81,6 +86,8 @@
 ## Follow me and visit my profile  and if any queries ask me on linkedin
 
 https://github.com/ElangoSubramani 
+
+
 
 
 
