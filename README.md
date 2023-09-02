@@ -1,4 +1,4 @@
-## In this Documentation you'll get to know how to host your static website in AWS S3 in AWS free tire account
+## In this Documentation you'll get to know how simpley you can host a static website in AWS S3 in AWS free tire account
 
 
 ### 1. Sign up for a AWS account you will get 5GB free Tire AWS Accout for one Year
