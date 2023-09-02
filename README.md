@@ -18,11 +18,11 @@
 
 ![Alt text](image-2.png)
 
-4.  Name the bucket as per the naming convention and Unmark the bloc all public Access
+4.  Name the bucket as per the naming convention and Unmark the block all public Access
 
 ![Alt text](image-3.png)
 
-5. Now click create  Bucket don't change any other configurations
+5. Now click create bucket don't change any other configurations
 
 ![Alt text](image-4.png)
 
