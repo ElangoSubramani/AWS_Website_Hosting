@@ -50,7 +50,7 @@
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::elangoportfolio/*"
+            "Resource": "arn:aws:s3:::replace with yout domain name/*"
         }
     ]
 }</p>
