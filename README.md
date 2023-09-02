@@ -74,7 +74,7 @@
 ![Alt text](assets/image-13.png)
 
 
-# Full Documetation
+# Full Documetation by AWS
 
 https://docs.aws.amazon.com/pdfs/AmazonS3/latest/userguide/s3-userguide.pdf#HostingWebsiteOnS3Setup
 
