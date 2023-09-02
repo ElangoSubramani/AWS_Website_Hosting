@@ -42,7 +42,7 @@
 ![Alt text](image-9.png)
 
 10. Clear the existing poolicy if anything already avilable, paste the below configuration
-<p>{
+{
     "Version": "2012-10-17",
     "Statement": [
         {
@@ -53,4 +53,5 @@
             "Resource": "arn:aws:s3:::replace with yout domain name/*"
         }
     ]
-}</p>
+}A
+
