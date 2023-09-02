@@ -59,6 +59,8 @@
         }
     ]
 }
+
+
 11. Now it's time to upload the our html,css,javascript files
 
 ![Alt text](image-10.png)
