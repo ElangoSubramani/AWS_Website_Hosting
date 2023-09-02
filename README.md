@@ -1,7 +1,8 @@
 ## In this document you'll get to know how to host your static website in AWS S3 in AWS Free Tire Account
 
 
-### 1. Sign up for a AWS account
+### 1. Sign up for a AWS account you will get 5GB free Tire AWS Axccout for one Year
+
 1. Search AWS S3 IN THE SEARCH BAR
 
 ![Alt text](image.png) 
@@ -10,10 +11,18 @@
 
 ![Alt text](image-1.png)
 
-3. In Buckets you have to create new bucket by selecting Create Bucket
+3. In Buckets you have to create new bucket by selecting Create Bucket 
 
 ![Alt text](image-2.png)
 
-4. Unmark the bloc all public Access
+4.  Name the bucket as per the naming convention and Unmark the bloc all public Access
 
 ![Alt text](image-3.png)
+
+5. Now click create  Bucket don't change any other configurations
+
+![Alt text](image-4.png)
+
+6. Tada!!! Your AWS S3 bucket created, Inside that go to the properties tab
+
+![Alt text](image-5.png)
