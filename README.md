@@ -26,3 +26,31 @@
 6. Tada!!! Your AWS S3 bucket created, Inside that go to the properties tab
 
 ![Alt text](image-5.png)
+
+7. Scroll Down to the last and click edit Static web Hosting
+
+![Alt text](image-6.png)
+
+8. Enable the the Static Webhosting
+
+![Alt text](image-7.png)
+
+9. Now select the Permissions tab and edit the bucket policy
+
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
+
+10. Clear the existing poolicy if anything already avilable, paste the below configuration
+<p>{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::elangoportfolio/*"
+        }
+    ]
+}</p>
