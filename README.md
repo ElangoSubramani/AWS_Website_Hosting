@@ -78,7 +78,7 @@
 
 ## Happy Learning
 
-## Follow me and visit my profile any queries ask me on linkedin
+## Follow me and visit my profile  and if any queries ask me on linkedin
 
 https://github.com/ElangoSubramani 
 
