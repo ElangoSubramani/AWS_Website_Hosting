@@ -53,5 +53,14 @@
             "Resource": "arn:aws:s3:::replace with yout domain name/*"
         }
     ]
-}A
+}
+11. Now it's time to upload the our html,css,javascript files
+
+![Alt text](image-10.png)
+
+12. Click upload and select the requireed files or folders 
+
+![Alt text](image-11.png)
+
+
 
