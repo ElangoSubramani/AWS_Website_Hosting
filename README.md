@@ -4,7 +4,7 @@
 <h4>Checkout my website:</h4> <p>http://elangoportfolio.s3-website-ap-southeast-2.amazonaws.com/</p>
 <br>
 
-###  Sign up for a AWS account you will get 5GB free Tire AWS Accout for one Year
+###  Log in pr Sign up your AWS account you will get 5GB free Tire AWS Accout for one Year
 
 1. Search AWS S3 in the search bar
 
