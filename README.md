@@ -26,7 +26,7 @@
 
 ![Alt text](image-4.png)
 
-6. Tada!!! Your AWS S3 bucket created, Inside that go to the properties tab
+6. Tada!!! Now Your AWS S3 bucket created, Inside that go to the properties tab
 
 ![Alt text](image-5.png)
 
