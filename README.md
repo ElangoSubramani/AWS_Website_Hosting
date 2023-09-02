@@ -1,7 +1,5 @@
 ## In this document you'll get to know how to host your static website in AWS S3 in AWS Free Tire Account
 
-# AWS_Website_Hosting
-
 
 ### 1. Sign up for a AWS account
 1. Search AWS S3 IN THE SEARCH BAR
